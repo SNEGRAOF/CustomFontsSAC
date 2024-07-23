@@ -3,7 +3,7 @@
     @font-face {
     font-family: 'VW Head Regular';
     font-style: normal;
-    font-weight: normal;
+    font-weight: 400;
     src: local('VW Head Regular'), url('VWHeadRegular.woff') format('woff');
     }
     
@@ -11,7 +11,7 @@
     @font-face {
     font-family: 'VW Head Bold';
     font-style: normal;
-    font-weight: normal;
+    font-weight: 700;
     src: local('VW Head Bold'), url('VWHeadBold.woff') format('woff');
     }
     
@@ -19,7 +19,7 @@
     @font-face {
     font-family: 'VW Text Regular';
     font-style: normal;
-    font-weight: normal;
+    font-weight: 400;
     src: local('VW Text Regular'), url('VWTextRegular.woff') format('woff');
     }
     
@@ -27,6 +27,6 @@
     @font-face {
     font-family: 'VW Text Bold';
     font-style: normal;
-    font-weight: normal;
+    font-weight: 700;
     src: local('VW Text Bold'), url('VWTextBold.woff') format('woff');
     }
